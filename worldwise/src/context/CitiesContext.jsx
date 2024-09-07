@@ -2,7 +2,7 @@ import { createContext, useCallback, useContext, useReducer } from "react";
 import { useEffect } from "react";
 
 const CitiesContext = createContext();
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://mahgoubworldwise.netlify.app";
 
 const initialState = {
   cities: [],
