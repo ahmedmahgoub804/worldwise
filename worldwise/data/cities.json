@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "An Nuhud",
+      "country": "Sudan (the)",
+      "emoji": "SD",
+      "date": "2024-07-29T08:34:59.174Z",
+      "notes": "",
+      "position": {
+        "lat": "12.46876014482322",
+        "lng": "28.32275390625"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Talodi",
+      "country": "Sudan (the)",
+      "emoji": "SD",
+      "date": "2024-07-29T08:35:14.430Z",
+      "notes": "",
+      "position": {
+        "lat": "10.768555807732437",
+        "lng": "30.432128906250004"
+      },
+      "id": 98443214
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "IT",
+      "date": "2024-07-29T11:54:42.060Z",
+      "notes": "",
+      "position": {
+        "lat": "41.890880984264335",
+        "lng": "12.476971149444582"
+      },
+      "id": 98443216
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2024-07-29T11:56:16.265Z",
+      "notes": "",
+      "position": {
+        "lat": "40.38839687388361",
+        "lng": "-3.6584472656250004"
+      },
+      "id": 98443218
+    },
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "EG",
+      "date": "2024-07-29T12:56:41.380Z",
+      "notes": "",
+      "position": {
+        "lat": "30.0677639",
+        "lng": "31.3333224"
+      },
+      "id": 98443219
+    },
+    {
+      "cityName": "Taravilla",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2024-07-29T14:21:41.725Z",
+      "notes": "",
+      "position": {
+        "lat": "40.6306300839918",
+        "lng": "-1.9775390625000002"
+      },
+      "id": 98443220
+    }
+  ]
+}
